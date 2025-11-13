@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Meftahul Zannat Supti
 
-<!--
-**meftahulzannatsupti/meftahulzannatsupti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in AI & Data Science (UK)  
+💡 Focused on Machine Learning, MLOps, and Responsible AI  
+🚀 Currently building an ethical churn prediction pipeline  
 
-Here are some ideas to get you started:
+## 🧩 What I'm Learning
+- Cloud MLOps (GCP, Docker, MLflow)
+- Explainable AI with SHAP
+- FastAPI and Streamlit deployments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Let's Connect
+[LinkedIn](https://linkedin.com/in/meftahulzannatsupti) | [GitHub](https://github.com/meftahulzannatsupti)
+
